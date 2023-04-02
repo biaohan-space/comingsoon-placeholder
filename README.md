@@ -3,5 +3,5 @@ This repository contains a simple placeholder website for a coming soon page. It
 
 ## Run
 1. Docker have to be installed
-2. build container: `docker build -t biaohan-placeholder`
-2. run container: `docker run biaohan-placeholder`
+2. build container: `docker build -t biaohan-placeholder .`
+2. run container: `docker run -d -p 80:80 biaohan-placeholder`
