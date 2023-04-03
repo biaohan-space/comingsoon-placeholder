@@ -3,7 +3,7 @@
 This repository contains a simple placeholder website for a coming soon page. 
 It features a captivating SVG hero image with character portrait animation and icon-list of social networks.
 
-The technique used here is quite simple, but at the same time it is quite effective. As you can check, the whole design consists of almost one SVG image and some CSS animation, which used for imitation of wireframe scanner-mask effect and blinking underscore effect.
+The technique used here is quite simple, but at the same time it is quite effective. As you can check, the whole design consists of almost one SVG image and some CSS animation, which used for imitation of wireframe scanner-mask effect and underscore blinking.
 
 One of the most cool thing that such SVG/CSS animation trick can be used on various platforms, for example, here in Github README.md file markup view.
 
