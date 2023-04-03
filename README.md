@@ -12,8 +12,11 @@ One of the most cool thing that such SVG/CSS animation trick can be used on vari
 ## Live demo:
 https://biaohan-space.github.io/comingsoon-placeholder
 
-## Run
-1. Docker have to be installed
-2. build container: `docker build -t biaohan-placeholder .`
-2. run container: `docker run -d -p 80:80 biaohan-placeholder`
+## Run locally
+
+Even though the web page is just HTML markup, here we need a web server to compile the styles by using `Less.js` (the CSS preprocessor). The most convy way is to use Docker:
+
+1. [Docker](https://www.docker.com) have to be installed
+2. Build container: `docker build -t biaohan-placeholder .`
+2. Run the container: `docker run -d -p 80:80 biaohan-placeholder`
 
