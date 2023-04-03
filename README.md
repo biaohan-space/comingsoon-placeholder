@@ -7,8 +7,8 @@ The page also includes social link-icons.
 ![彪悍 | biaohan.space](https://github.com/biaohan-space/comingsoon-placeholder/blob/main/imgs/screenshot.png?raw=true)
 
 
-## Live
-https://biaohan.space
+## Live demo:
+https://biaohan-space.github.io/comingsoon-placeholder
 
 ## Run
 1. Docker have to be installed
