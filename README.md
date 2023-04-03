@@ -3,8 +3,8 @@ This repository contains a simple placeholder website for a coming soon page.
 It features a captivating SVG cover image with character portrait animation designed to grab the viewer's attention. 
 The page also includes social link-icons.
 
-## Live
-https://biaohan.space
+## Live demo:
+https://biaohan-space.github.io/comingsoon-placeholder
 
 ## Run
 1. Docker have to be installed
